@@ -27,12 +27,14 @@ jobs:
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
 
-            if [[ -n "$(git status --porcelain)" ]]; then
-                git add mikrotik/*
+            # 只检查 mikrotik 目录下的文件变化
+            if [[ -n "$(git status --porcelain mikrotik/)" ]]; then
+                git add mikrotik/
                 git commit -m "chore: 更新 Chnoute 规则 $(date '+%Y-%m-%d')"
                 git push
             else
                 echo "没有规则更新"
+                exit 0
             fi
 
       - name: 上传规则文件作为构件
