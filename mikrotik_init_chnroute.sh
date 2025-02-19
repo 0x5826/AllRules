@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path="mikrotik"
+path="./mikrotik"
 listname_v4="chnroute_v4"
 filename_v4="${listname_v4}.rsc"
 
