@@ -1,30 +1,41 @@
 name: Generate RouteOS Chnroute Script
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 4"
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    paths:
+      - 'smartdns/**'
+      - '.github/workflows/mikrotik_rules.yml'
 
 jobs:
-  run-script:
+  update-rules:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: 检出代码
+        uses: actions/checkout@v4
 
-    - name: Run script
-      run: |
-        chmod +x ./ros_chnroute_v4.sh
-        bash ./ros_chnroute_v4.sh
+      - name: 更新规则
+        run: |
+            chmod +x ./ros_chnroute_v4.sh
+            bash ./ros_chnroute_v4.sh
 
-    - name: Commit changes
-      run: |
-        git config --global user.name 'dante'
-        git config --global user.email 'dante@duckduckfly.xyz'
-        git add .
-        git commit -m 'auto update chnroute_v4.rsc'
-        git push
+      - name: 提交更改
+        run: |
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+
+            if [[ -n "$(git status --porcelain)" ]]; then
+                git add mikrotik/*
+                git commit -m "chore: update chnroute_v4.rsc $(date '+%Y-%m-%d')"
+                git push
+            else
+                echo "没有规则更新"
+            fi
+      - name: 上传规则文件作为构件
+        uses: actions/upload-artifact@v4
+        with:
+            name: mikrotik_rules
+            path: mikrotik/*
+            retention-days: 7
