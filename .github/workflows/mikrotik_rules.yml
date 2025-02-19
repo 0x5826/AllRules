@@ -8,6 +8,7 @@ on:
     paths:
       - 'mikrotik/**'
       - '.github/workflows/mikrotik_rules.yml'
+      - './mikrotik_init_chnroute.sh'
 
 jobs:
   update-rules:
