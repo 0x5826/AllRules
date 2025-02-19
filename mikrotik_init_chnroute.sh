@@ -4,6 +4,9 @@ path="./mikrotik"
 listname_v4="chnroute_v4"
 filename_v4="${listname_v4}.rsc"
 
+# 创建 mikrotik 目录（如果不存在）
+mkdir -p $path
+
 chnroute_list_v4=$(curl -sSL https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt)
 
 echo "/ip firewall address-list remove [/ip firewall address-list find list=$listname_v4]" > $path/$filename_v4
