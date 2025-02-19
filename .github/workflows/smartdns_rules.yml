@@ -22,8 +22,8 @@ jobs:
           mkdir -p smartdns/tmp
           
           # 设置执行权限并运行脚本
-          chmod +x ./smartdns/smartdns_init_rules.sh
-          ./smartdns/smartdns_init_rules.sh
+          chmod +x ./smartdns_init_rules.sh
+          ./smartdns_init_rules.sh
           
           # 清理临时目录
           rm -rf smartdns/tmp

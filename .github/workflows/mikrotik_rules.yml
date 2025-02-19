@@ -1,0 +1,30 @@
+name: Generate RouteOS Chnroute Script
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 4"
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Run script
+      run: |
+        chmod +x ./ros_chnroute_v4.sh
+        bash ./ros_chnroute_v4.sh
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'dante'
+        git config --global user.email 'dante@duckduckfly.xyz'
+        git add .
+        git commit -m 'auto update chnroute_v4.rsc'
+        git push
