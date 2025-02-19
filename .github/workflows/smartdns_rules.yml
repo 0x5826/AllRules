@@ -58,7 +58,7 @@ jobs:
           rm -rf smartdns/tmp
 
       - name: 上传规则文件作为构件
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: smartdns-rules
           path: smartdns/*.txt           # 修改为匹配 smartdns 目录下的 txt 文件
