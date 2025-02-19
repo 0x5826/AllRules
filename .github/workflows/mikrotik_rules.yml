@@ -1,4 +1,4 @@
-name: Generate RouteOS Chnroute Script
+name:  Update Chnroute Rules
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'smartdns/**'
+      - 'mikrotik/**'
       - '.github/workflows/mikrotik_rules.yml'
 
 jobs:

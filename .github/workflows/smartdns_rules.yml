@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'mikrotik/**'
-      - '.github/workflows/mikrotik_rules.yml'
+      - 'smartdns/**'
+      - '.github/workflows/smartdns_rules.yml'
 
 jobs:
   update-rules:
