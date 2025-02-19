@@ -1,4 +1,4 @@
-name: Create Release
+name: All Release
 
 on:
   workflow_run:
@@ -14,18 +14,6 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v4
         
-      - name: 下载 MikroTik 规则构件
-        uses: actions/download-artifact@v4
-        with:
-          name: mikrotik_rules
-          path: mikrotik
-          
-      - name: 下载 SmartDNS 规则构件
-        uses: actions/download-artifact@v4
-        with:
-          name: smartdns-rules
-          path: smartdns
-          
       - name: 获取当前日期
         id: date
         run: echo "TODAY=$(date +'%Y%m%d')" >> $GITHUB_ENV
@@ -46,5 +34,3 @@ jobs:
             包含:
             - MikroTik 规则
             - SmartDNS 规则
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
