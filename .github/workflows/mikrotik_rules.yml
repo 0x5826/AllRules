@@ -29,7 +29,7 @@ jobs:
 
             if [[ -n "$(git status --porcelain)" ]]; then
                 git add mikrotik/*
-                git commit -m "chore: 更新 chnroute_v4.rsc 规则 $(date '+%Y-%m-%d')"
+                git commit -m "chore: 更新 chnroute_v4 规则 $(date '+%Y-%m-%d')"
                 git push
             else
                 echo "没有规则更新"
