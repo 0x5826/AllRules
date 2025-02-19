@@ -43,7 +43,6 @@ process_domains() {
 # 主函数
 main() {
     # 创建必要的目录
-    mkdir -p "${RULES_DIR}"
     mkdir -p "${TEMP_DIR}"
 
     # 更新所有规则
