@@ -18,8 +18,8 @@ jobs:
 
       - name: 更新规则
         run: |
-            chmod +x ./ros_chnroute_v4.sh
-            bash ./ros_chnroute_v4.sh
+            chmod +x ./mikrotik_init_chnroute.sh
+            bash ./mikrotik_init_chnroute.sh
 
       - name: 提交更改
         run: |
