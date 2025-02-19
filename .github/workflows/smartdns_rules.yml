@@ -41,3 +41,9 @@ jobs:
           else
             echo "没有规则更新"
           fi
+      - name: 上传规则文件作为构件
+        uses: actions/upload-artifact@v4
+        with:
+          name: smartdns-rules
+          path: smartdns/*.txt
+          retention-days: 7
