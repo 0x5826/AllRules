@@ -8,11 +8,11 @@ twimg.com
 twitpic.com
 twitter.biz
 twitter.com
+twitter.jp
+twitter.map.fastly.net
 twittercommunity.com
 twitterflightschool.com
 twitterinc.com
-twitter.jp
-twitter.map.fastly.net
 twitteroauth.com
 twitterstat.us
 twtrdns.net
