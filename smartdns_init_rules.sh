@@ -1,27 +1,24 @@
 #!/bin/bash
 
-# 配置
-RULES_DIR="./smartdns"        # 修改为 smartdns 目录
-TEMP_DIR="./smartdns/tmp"     # 保持临时目录不变
+RULES_DIR="./smartdns"
+TEMP_DIR="./smartdns/tmp"
 
-# 规则源配置
 declare -A RULE_SOURCES=(
     ["adblock"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
     ["gfwlist"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
     ["china"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
     ["apple_cn"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt"
-    ["steam"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/steam"
+    ["steam_cn"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/steam"
+    ["microsoft_cn"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/microsoft"
     ["global"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
 )
 
-# 下载函数
 download_rule() {
     local url="$1"
     local output="$2"
     curl -sSL --connect-timeout 10 --max-time 30 "$url" -o "$output"
 }
 
-# 处理域名规则
 process_domains() {
     local input="$1"
     local output="$2"
@@ -29,13 +26,11 @@ process_domains() {
 
     case "$type" in
         "cn_only")
-            # 只提取带有 @cn 标记的域名，并过滤前缀
             grep '@cn' "$input" | \
             sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @cn.*$//; s/ *$//; /^$/d' | \
             grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
             ;;
         "all")
-            # 提取所有有效域名
             grep -v '^#' "$input" | \
             sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @.*$//; s/ *$//; /^$/d' | \
             grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
@@ -56,7 +51,7 @@ main() {
         local final_file="${RULES_DIR}/${name}.txt"
         
         if download_rule "${RULE_SOURCES[$name]}" "$temp_file"; then
-            if [ "$name" = "steam" ]; then
+            if [[ "$name" == *"_cn"* ]]; then
                 process_domains "$temp_file" "$final_file" "cn_only"
             else
                 process_domains "$temp_file" "$final_file" "all"
@@ -68,5 +63,4 @@ main() {
     done
 }
 
-# 执行主函数
 main
