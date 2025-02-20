@@ -29,12 +29,12 @@ process_domains() {
         "cn_only")
             grep '@cn' "$input" | \
             sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @cn.*$//; s/ *$//; /^$/d' | \
-            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
+            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u | sed '$a\' > "$output"
             ;;
         "all")
             grep -v '^#' "$input" | \
             sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @.*$//; s/ *$//; /^$/d' | \
-            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
+            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u | sed '$a\' > "$output"
             ;;
     esac
 }
