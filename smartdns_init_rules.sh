@@ -27,14 +27,24 @@ process_domains() {
 
     case "$type" in
         "cn_only")
-            grep '@cn' "$input" | \
-            awk '{gsub(/^full:|^domain:|^regexp:| @cn.*$/, ""); gsub(/ *$/, ""); if ($0 ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/) print}' | \
-            sort -u > "$output"
+            awk '
+                /@cn/ {
+                    line = $0
+                    gsub(/^full:|^domain:|^regexp:| @cn.*$/, "", line)
+                    gsub(/ *$/, "", line)
+                    if (line ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/) 
+                        print line
+                }' "$input" | sort -u > "$output"
             ;;
         "all")
-            grep -v '^#' "$input" | \
-            awk '{gsub(/^full:|^domain:|^regexp:| @.*$/, ""); gsub(/ *$/, ""); if ($0 ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/) print}' | \
-            sort -u > "$output"
+            awk '
+                !/^#/ {
+                    line = $0
+                    gsub(/^full:|^domain:|^regexp:| @.*$/, "", line)
+                    gsub(/ *$/, "", line)
+                    if (line ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/)
+                        print line
+                }' "$input" | sort -u > "$output"
             ;;
     esac
 }

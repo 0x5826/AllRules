@@ -1,6 +1,6 @@
 b.c2r.ts.cdn.office.net
-bg.v4.a.dl.ws.microsoft.com
 bg4.v4.a.dl.ws.microsoft.com
+bg.v4.a.dl.ws.microsoft.com
 build.microsoft.com
 cdn.marketplaceimages.windowsphone.com
 cn.windowssearch.com
@@ -19,15 +19,15 @@ f.c2r.ts.cdn.office.net
 fs.microsoft.com
 learn.microsoft.com
 lync.cn
-microsoft-smb.cn
+microsoftonline.cn
 microsoftonline-i.cn
-microsoftonline-m-i.cn
 microsoftonline-m.cn
+microsoftonline-m-i.cn
+microsoftonline-p.cn
 microsoftonline-p-i.cn
 microsoftonline-p-i.net.cn
-microsoftonline-p.cn
 microsoftonline-p.net.cn
-microsoftonline.cn
+microsoft-smb.cn
 microsofttranslator-int.cn
 msauth.cn
 msauthimages.cn
@@ -41,8 +41,8 @@ myvs.download.prss.microsoft.com
 o365cn.com
 o365files.cn
 oemsoc.download.prss.microsoft.com
-office365-net.cn
 office365.cn
+office365-net.cn
 officecdn.microsoft.com
 officewebapps.cn
 onmschina.cn
