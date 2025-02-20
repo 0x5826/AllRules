@@ -28,13 +28,16 @@ process_domains() {
     local type="$3"
 
     case "$type" in
-        "steam")
-            grep -v '^#' "$input" | \
-            sed -e 's/^full://; s/ @cn.*$//; s/ *$//; /^$/d' | \
+        "cn_only")
+            # 只提取带有 @cn 标记的域名，并过滤前缀
+            grep '@cn' "$input" | \
+            sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @cn.*$//; s/ *$//; /^$/d' | \
             grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
             ;;
-        *)
-            sed -e 's/^full://; s/^domain://; s/^regexp://; /^#/d; /^$/d' "$input" | \
+        "all")
+            # 提取所有有效域名
+            grep -v '^#' "$input" | \
+            sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @.*$//; s/ *$//; /^$/d' | \
             grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u > "$output"
             ;;
     esac
@@ -54,9 +57,9 @@ main() {
         
         if download_rule "${RULE_SOURCES[$name]}" "$temp_file"; then
             if [ "$name" = "steam" ]; then
-                process_domains "$temp_file" "$final_file" "steam"
+                process_domains "$temp_file" "$final_file" "cn_only"
             else
-                process_domains "$temp_file" "$final_file" "basic"
+                process_domains "$temp_file" "$final_file" "all"
             fi
             echo "${name} 规则更新完成，共 $(wc -l < "$final_file") 条记录"
         else
