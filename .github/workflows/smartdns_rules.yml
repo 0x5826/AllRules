@@ -8,7 +8,7 @@ on:
     paths:
       - 'smartdns/**'
       - '.github/workflows/smartdns_rules.yml'
-      - './smartdns_init_rules.sh'
+      - 'smartdns_init_rules.sh'
 
 jobs:
   update-rules:
