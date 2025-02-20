@@ -10,6 +10,7 @@ declare -A RULE_SOURCES=(
     ["apple_cn"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/apple"
     ["steam_cn"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/steam"
     ["microsoft_cn"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/microsoft"
+    ["twitter"]="https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/twitter"
     ["global"]="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
 )
 
