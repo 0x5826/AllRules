@@ -28,13 +28,13 @@ process_domains() {
     case "$type" in
         "cn_only")
             grep '@cn' "$input" | \
-            sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @cn.*$//; s/ *$//; /^$/d' | \
-            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u | sed '$a\' > "$output"
+            awk '{gsub(/^full:|^domain:|^regexp:| @cn.*$/, ""); gsub(/ *$/, ""); if ($0 ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/) print}' | \
+            sort -u > "$output"
             ;;
         "all")
             grep -v '^#' "$input" | \
-            sed -e 's/^full://; s/^domain://; s/^regexp://; s/ @.*$//; s/ *$//; /^$/d' | \
-            grep -E '^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$' | sort -u | sed '$a\' > "$output"
+            awk '{gsub(/^full:|^domain:|^regexp:| @.*$/, ""); gsub(/ *$/, ""); if ($0 ~ /^[a-zA-Z0-9][a-zA-Z0-9\.-]+\.[a-zA-Z]{2,}$/) print}' | \
+            sort -u > "$output"
             ;;
     esac
 }
