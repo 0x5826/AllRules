@@ -28,6 +28,7 @@ microsoftonline-p-i.net.cn
 microsoftonline-p.cn
 microsoftonline-p.net.cn
 microsoftonline.cn
+microsoftstore.com.cn
 microsofttranslator-int.cn
 msauth.cn
 msauthimages.cn
@@ -44,6 +45,7 @@ oemsoc.download.prss.microsoft.com
 office365-net.cn
 office365.cn
 officecdn.microsoft.com
+officeplus.cn
 officewebapps.cn
 onmschina.cn
 outlook.cn
