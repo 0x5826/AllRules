@@ -51,6 +51,7 @@ apptrailers.itunes.apple.com
 auth.music.apple.com
 bag.itunes.apple.com
 bookkeeper.itunes.apple.com
+cdn-cn.apple-mapkit.com
 cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
@@ -66,6 +67,7 @@ cds.apple.com.akadns.net
 cdsassets.apple.com
 cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
+cl2-cdn.origin-apple.com.akadns.net
 cl2-cn.apple.com
 cl2.apple.com
 cl3-cdn.origin-apple.com.akadns.net
@@ -194,6 +196,11 @@ prod-support.apple-support.akadns.net
 publicassets.cdn-apple.com
 reserve-prime.apple.com
 s.mzstatic.com
+s1.mzstatic.com
+s2.mzstatic.com
+s3.mzstatic.com
+s4.mzstatic.com
+s5.mzstatic.com
 se-edge.itunes.apple.com
 se2.itunes.apple.com
 search.itunes.apple.com
