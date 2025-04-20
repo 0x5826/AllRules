@@ -10190,6 +10190,7 @@ aby.pub
 abykt.com
 abyssdawn.com
 abz-sh.com
+ac.fun
 ac268.com
 ac57.com
 acabridge.net
@@ -10238,6 +10239,7 @@ acewill.net
 acfechina.org
 acftu.org
 acfun.com
+acfun.net
 acfunchina.com
 acfunchina.net
 acg.gd
@@ -10962,7 +10964,6 @@ ai-thinker.com
 ai-vip.net
 ai-ways.com
 ai.cc
-ai.ytimg.com
 ai.zhaomi.cn
 ai012.com
 ai0513.com
@@ -12936,6 +12937,7 @@ apous.com
 apowo.com
 apowogame.com
 apoyl.com
+app-analytics-services.com
 app-measurement-cn.com
 app-measurement.com
 app-router.com
@@ -13003,7 +13005,6 @@ appleadstech.com
 applebl.com
 appledp.com
 appleid.cdn-apple.com
-applemdm.corp.google.com
 applemei.com
 applepopo.com
 applethome.com
@@ -18005,7 +18006,6 @@ borain.com
 borderlessbd.com
 borenhospital.com
 borgheseonline.com
-borgmon.adz.google.com
 borlonclan.com
 born-tw.com
 born123.com
@@ -21839,6 +21839,8 @@ cheshijie.com
 cheshipin.com
 cheshirex.com
 cheshizh.com
+chesicc.com
+chesicc.net
 chesir.com
 chesir.net
 chestercharles.com
@@ -30538,9 +30540,6 @@ displink.com
 dissona.vip
 distantmeaning.com
 distinctclinic.com
-distribution.qatp1.net
-distribution.qcpp1.net
-distribution.qpdp1.net
 ditai.fun
 ditan.com
 ditan360.com
@@ -30974,7 +30973,6 @@ dns-sky.com
 dns-url.com
 dns-vip.net
 dns.com
-dns.corp.google.com
 dns.la
 dns.pub
 dns002.com
@@ -31638,8 +31636,6 @@ download.microsoft.com
 download.mlcc.google.com
 download.msi.com
 download.qatp1.net
-download.qcpp1.net
-download.qpdp1.net
 download.tensorflow.google.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
@@ -36941,12 +36937,10 @@ fonian.com
 fonsview.com
 font.im
 font6.com
-fontfiles.googleadapis.com
 fontfiles.googleapis.com
 fontke.com
 fontong.com
 fontoohotels.com
-fonts.googleadapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonye.com
@@ -38083,7 +38077,6 @@ g3.gstatic.com
 g32365.com
 g3bocaitong.com
 g3d.org
-g3doc.corp.google.com
 g3img.com
 g3user.com
 g3voip.com
@@ -39436,6 +39429,8 @@ gf7979cn.com
 gfan.com
 gfanstore.com
 gfbk.net
+gfbzb.com
+gfbzb.net
 gfcdn.xyz
 gfcity.com
 gfcname.com
@@ -40310,7 +40305,6 @@ gmqd.com
 gmquickapp.com
 gmrmyy.com
 gmsec.net
-gmskiosk-ssl.corp.google.com
 gmsolid.com
 gmssl.org
 gmswl.com
@@ -40738,7 +40732,6 @@ googleflights-cn.net
 googlenav.com
 googleoptimize-cn.com
 googleoptimize.com
-googleplex.com
 googleplus.party
 googlesyndication-cn.com
 googlesyndication.com
@@ -40786,7 +40779,6 @@ goquye.com
 gorebuy.com
 goregxa.com
 gorichox.com
-gorom.corp.google.com
 gorouter.info
 gorse.com
 gortune.com
@@ -40811,8 +40803,6 @@ gothe3.com
 goto-game.com
 goto-game.mobi
 goto-game.org
-goto.corp.google.com
-goto.google.com
 gotobath.com
 gotocdn.com
 gotocoding.com
@@ -50681,6 +50671,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloud-idme.com
+huaweicloud-koophone.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -70851,6 +70842,7 @@ modashi.net
 modb.cc
 modb.pro
 modelarts-infer.com
+modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
@@ -71050,8 +71042,6 @@ mongac.com
 monhun.fun
 monidai.com
 monidata.com
-monitoring.qatp1.net
-monitoring.qcpp1.net
 monitoring.qpdp1.net
 monknow.com
 monolink.net
@@ -78008,7 +77998,6 @@ play-cdn10.com
 play-cdn11.com
 play-cdn14.com
 play-cdn20.com
-play.1ucrs.com
 play.craft.moe
 play.itunes.apple.com
 play.music.apple.com
@@ -79105,8 +79094,6 @@ qa114.com
 qacctv.com
 qacn.net
 qagpublic.qatp1.net
-qagpublic.qcpp1.net
-qagpublic.qpdp1.net
 qahzp.com
 qajung.xyz
 qakkan.vip
@@ -79468,9 +79455,7 @@ qfxcha.com
 qfxhjxc.net
 qg.net
 qg108.com
-qgadmin.qatp1.net
 qgadmin.qcpp1.net
-qgadmin.qpdp1.net
 qgb2b.com
 qgbnzb.com
 qgbzyzl.com
@@ -79499,6 +79484,7 @@ qgxl.org
 qgyqshz.com
 qgysj.org
 qgyyzs.net
+qgzb.net
 qgzxx.com
 qgzzz.com
 qh-cdn.com
@@ -81093,10 +81079,6 @@ qualcomm-challenge.com
 qualcomm.cn.cdn.cloudflare.net
 qualtekgz.com
 qualysapi.qatp1.net
-qualysapi.qcpp1.net
-qualysapi.qpdp1.net
-qualysguard.qatp1.net
-qualysguard.qcpp1.net
 qualysguard.qpdp1.net
 quan.mx
 quan007.com
@@ -82130,10 +82112,7 @@ rap-pro.com
 rapidppt.com
 rapoo.com
 rapospectre.com
-rapture-autopush.corp.google.com
 rapture-prod.corp.google.com
-rapture-test.corp.google.com
-rapture.corp.google.com
 rarcbank.com
 rarelit.net
 rarone.com
@@ -82464,7 +82443,6 @@ regenchem.com
 regengbaike.com
 regexlab.com
 regexr-cn.com
-regioninfo-pa.googleapis.com
 reglogo.net
 regltd.com
 regtm.com
@@ -84350,9 +84328,7 @@ sc96655.com
 scaffi.com
 scagz.com
 scanfang.com
-scanservice1.qatp1.net
 scanservice1.qcpp1.net
-scanservice1.qpdp1.net
 scansmt.com
 scanv.com
 scarbbs.com
@@ -85528,7 +85504,6 @@ setb2b.com
 setdg.net
 seteuid0.com
 setshop.vip
-settings.xn--9trs65b.com
 seuic.com
 seven-meters.com
 seven7777.eu
@@ -90245,7 +90220,6 @@ ssggg.com
 ssgushi.com
 ssgxwq.com
 ssgz.com
-ssh-relay.corp.google.com
 sshce.com
 sshr.net
 sshzhuangshipin.com
@@ -90381,7 +90355,6 @@ stage3rd.com
 staginfo.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
-staging-regioninfo-pa.googleapis.com
 staging.databe.floonet.goog
 staidson.com
 stanbt.com
@@ -91235,10 +91208,8 @@ supplierlist.com
 supplywater.com
 support-china.apple-support.akadns.net
 support-cn.samsung.com
-support.1ucrs.com
 support.amd.com
 support.apple.com
-supportcenter.corp.google.com
 supreme-oe.com
 supuvalve.com
 supwisdom.com
@@ -93812,7 +93783,6 @@ techqianmo.com
 techshidai.com
 techsir.com
 techsize.com
-techstop.corp.google.com
 techtmt.com
 techtop.com
 techuangyi.com
@@ -94090,7 +94060,6 @@ tesla-cdn.thron.cn
 tesolsh.com
 tesoon.com
 test-cignacmb.com
-test.bugs-qa.chromium.org
 test.gbugs-qa.chromium.org
 testbird.com
 testcoo.com
@@ -97305,14 +97274,8 @@ ubc-bearing.com
 ubccn.com
 ubeethiesemo.com
 ubeihai.com
-uberproxy-debug.corp.google.com
 uberproxy-debug4.corp.google.com
-uberproxy-pen-redirect.corp.google.com
-uberproxy-with-cn.l.google.com
-uberproxy-with-cn4.l.google.com
-uberproxy-with-cn6.l.google.com
 uberproxy.corp.google.com
-uberproxy4.corp.google.com
 uberproxy6.corp.google.com
 ubersz.com
 ubesh.com
@@ -98734,7 +98697,6 @@ vesystem.com
 vetoolchain.com
 vetscloud.com
 vevor.net
-vext.corp.google.com
 vez.me
 vf5c.com
 vfcdnrd.com
@@ -103664,7 +103626,6 @@ www.dell.com
 www.destinationurl.com
 www.djivideos.com
 www.entrust.cn
-www.googleadapis.com
 www.gov.mo
 www.gstatic.com
 www.htc.com
@@ -107353,7 +107314,6 @@ xn--8y0ao80c.com
 xn--9kq29i0tjy6b044actm.com
 xn--9kqx88aa0024cywe.org
 xn--9kr72kqwe.com
-xn--9kr7l.com
 xn--9myo55bi8l.com
 xn--9pr56vfna007k.com
 xn--b0tn0sxy3ayhj.com
@@ -114547,6 +114507,7 @@ zb800.com
 zbao.com
 zbao56.com
 zbbar.net
+zbbm.net
 zbbus.com
 zbc.pub
 zbc.wiki
