@@ -11459,6 +11459,7 @@ ggpds.com
 ggpht.com
 ggsrv.com
 ggssl.com
+gh.io
 ghbi.ir
 ghcr.io
 ghettotube.com
@@ -27376,6 +27377,7 @@ udn.com.tw
 udnbkk.com
 udndata.com
 udnfunlife.com
+udomain.hk
 udtrucksmeena.com
 uea.ac.uk
 ueberamazon.de
