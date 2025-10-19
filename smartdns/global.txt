@@ -4805,6 +4805,7 @@ boomba.club
 boombeach.com
 boomerang.com
 booru.org
+boosty.to
 booth.pm
 bootstrapcdn.com
 bootyliciousmag.com
@@ -5856,6 +5857,7 @@ cdn-images.mailchimp.com
 cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn-terapeak.com
+cdn-vk.ru
 cdn.ac.uk
 cdn.arstechnica.net
 cdn.assets.lfpcontent.com
@@ -6828,6 +6830,7 @@ condovercollege.ac.uk
 conductus.ac.uk
 conel.ac.uk
 confetti.ac.uk
+configuration-lb.ls-apple.com.akadns.net
 conform.ac.uk
 confuciusinstitute.ac.uk
 connaissancesfinancierespratiques.ca
@@ -6953,7 +6956,6 @@ coup.ac.uk
 coupang.com
 coupangcdn.com
 couplecam.co.uk
-courier-push-apple.com.akadns.net
 couriermail.com.au
 coursehero.com
 coursera-for-business.org
@@ -7924,6 +7926,7 @@ dhlestudio.com.co
 diabetes-healthnet.ac.uk
 diablo3.com
 diabloimmortal.com
+diabrowser.com
 dialga.com
 dialogflow.com
 diamantewebcam.com
@@ -8338,6 +8341,7 @@ domesticabuserisk.ac.uk
 domywife.com
 don.ac.uk
 donatecarsoh.org
+donationalerts.com
 doncaster.ac.uk
 dongtaiwang.com
 dongtaiwang.net
@@ -12458,6 +12462,7 @@ guancha.org
 guangming.com.my
 guangming.org
 guaranitermal.com
+guardarian.com
 guardianapis.com
 guardianapps.co.uk
 guardianproject.info
@@ -17679,6 +17684,7 @@ melonbooks.co.jp
 melonstube.com
 meltoday.com
 meme111.com
+memealerts.com
 memehk.com
 memes.tw
 memri.org
@@ -20551,6 +20557,7 @@ ok.xxx
 okaapps.com
 okayfreedom.com
 okazudouga.tokyo
+okcdn.ru
 okex.com
 okinawabank.co.jp
 okk.tw
@@ -23609,10 +23616,15 @@ sams.ac.uk
 samsung.com
 samsungapps.com
 samsungcloud.com
+samsungconsent.com
 samsungdm.com
 samsunggalaxyfriends.com
+samsunghealth.com
+samsungiotcloud.com
 samsungknox.com
+samsungosp.com
 samsungqbe.com
+samsungrs.com
 sandisk.ae
 sandisk.co.jp
 sandisk.co.kr
@@ -25547,6 +25559,7 @@ stcroixmosquitoproject.com
 stdavidscollege.ac.uk
 stdavidsdaygroup.ac.uk
 stdoms.ac.uk
+stealthex.io
 steam-api.com
 steam-chat.com
 steam.apac.qtlglb.com
@@ -28238,6 +28251,7 @@ vercel-status.com
 vercel.app
 vercel.blog
 vercel.com
+vercel.dev
 vercel.events
 vercel.live
 vercel.pub
@@ -28668,6 +28682,7 @@ vk.me
 vk.ru
 vk.team
 vkcache.com
+vkcloud-static.ru
 vkgo.app
 vklive.app
 vkmessenger.app
