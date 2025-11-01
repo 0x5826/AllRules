@@ -8250,6 +8250,7 @@ dlhe.ac.uk
 dlib.eastview.com
 dlive.tv
 dlmobilegarena-a.akamaihd.net
+dln1.ncdn.ec
 dls.ac.uk
 dlsite.com
 dlsite.com.tw
@@ -24167,6 +24168,7 @@ senss-dtp.ac.uk
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry.io
 sentry.ppy.sh
 senzuritv.net
 sepnet.ac.uk
