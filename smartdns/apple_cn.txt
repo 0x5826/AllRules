@@ -64,7 +64,6 @@ cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
 cdsassets.apple.com
-certs.apple.com
 cl1-cdn.origin-apple.com.akadns.net
 cl1.apple.com
 cl2-cdn.origin-apple.com.akadns.net
@@ -85,7 +84,6 @@ cn-smp-paymentservices.apple.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-crl.apple.com
 cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
@@ -177,10 +175,6 @@ ml.cdn-apple.com
 music.apple.com
 myapp.itunes.apple.com
 np-edge.itunes.apple.com
-ocsp-lb.apple.com.akadns.net
-ocsp.apple.com
-ocsp2-lb.apple.com.akadns.net
-ocsp2.apple.com
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.apple.com
@@ -244,8 +238,6 @@ updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
 upp.itunes.apple.com
-valid.apple.com
-valid.origin-apple.com.akadns.net
 weather-data.apple.com
 weather-data.apple.com.akadns.net
 weather-map.apple.com
