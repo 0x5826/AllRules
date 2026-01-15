@@ -20817,6 +20817,8 @@ signalr.net
 signalusers.org
 sigops.org
 sigopt.com
+sih-db.com
+sih.app
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
@@ -21585,6 +21587,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steammobile.akamaized.net
 steamofporn.com
