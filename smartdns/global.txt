@@ -17885,6 +17885,7 @@ pp6.info
 ppaypal.com
 ppb-mod.buzz
 ppe.lawyer
+ppl-ai-file-upload.s3.amazonaws.com
 pplah.com
 pplusstatic.com
 pplx-res.cloudinary.com
@@ -24441,6 +24442,7 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexmetrica.com
+yandexwebcache.net
 yandexwebcache.org
 yangzhi.app
 yangzhi.org
