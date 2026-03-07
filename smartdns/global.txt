@@ -1817,6 +1817,7 @@ apisof.net
 apk.support
 apkcombo.com
 apkmirror.com
+apkmirror.disqus.com
 apkmonk.com
 apkplz.com
 apkpure.com
@@ -12135,6 +12136,7 @@ inventor-certified.com
 inventorfusion.com
 inventorseries.com
 inventorship.com.au
+investing.com
 investorschronicle.co.uk
 invidio.us
 invity.io
@@ -15228,6 +15230,7 @@ musickit.net
 musixmatch.com
 mut.ch
 muthead.com
+muvluv-girls-garden.com
 muycerdas.xxx
 muyzorras.com
 muzi.com
@@ -16571,6 +16574,7 @@ only3x.com
 onlyams.com
 onlycartoonsex.com
 onlydudes.com
+onlyfans.com
 onlyfanspw.com
 onlyfreelatinaporn.com
 onlygayvideo.com
@@ -19222,6 +19226,7 @@ selfloversworld.com
 sellercommunity.com
 semanticscholar.org
 sena.co.kr
+sendvid.com
 seneporno.com
 seniortgp.com
 senpaiheat.com
@@ -20219,6 +20224,8 @@ sstmlt.moe
 sstmlt.net
 ssttest.net
 ssx3.com
+st-ok-pts.cdn-vk.ru
+st-ok.cdn-vk.ru
 st.com
 stackage.org
 stackapps.com
@@ -22061,6 +22068,7 @@ ut1-wwv.nist.gov
 utcnist.colorado.edu
 utcnist2.colorado.edu
 utcnist3.colorado.edu
+utdstc.com
 utopianpal.com
 uts-api.itunes.apple.com
 uug22.com
@@ -24562,6 +24570,9 @@ youflix.is
 youjism.com
 youjizz.com
 youjizz.sex
+youla-web-static.mrgcdn.ru
+youla.io
+youla.ru
 youlucky.com
 youmaker.com
 youmind.ai
