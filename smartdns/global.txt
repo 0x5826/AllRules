@@ -6909,6 +6909,7 @@ downloadsforipod.com
 dpool.top
 dpp.org.tw
 dpr.info
+dqd0jw5gvbchn.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 draftjs.org
 dragonage.com
@@ -16647,6 +16648,7 @@ openleaks.org
 openlibrary.org
 openmaps.org
 openreality.com
+openrec.tv
 openresty.org
 openreview.net
 openrouter.ai
@@ -18873,6 +18875,7 @@ s-msn.com
 s-nbcnews.com
 s-rewards.hk
 s-xoom.com
+s.rmimg.com
 s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
