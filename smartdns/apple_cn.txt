@@ -169,6 +169,7 @@ livephotos.com.cn
 macbookair.cn
 macbookair.com.cn
 maps.apple.com
+mensura.cdn-apple.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
