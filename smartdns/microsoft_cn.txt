@@ -12,7 +12,6 @@ dcg.microsoft.com
 developer.microsoft.com
 dl.delivery.mp.microsoft.com
 download.microsoft.com
-download.visualstudio.microsoft.com
 download.windowsupdate.com
 dreamspark.download.prss.microsoft.com
 dreamsparkuat.download.prss.microsoft.com
