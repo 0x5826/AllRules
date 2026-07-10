@@ -6,12 +6,10 @@ a5.mzstatic.com
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 amp-api-edge.apps.apple.com
-amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
-amp-api.music.apple.com
 api-edge.apps.apple.com
 app-site-association.cdn-apple.com
 appldnld.apple.com
@@ -43,7 +41,6 @@ appletv4.cn
 appletv4.com.cn
 apps.mzstatic.com
 appstoreapple.cn
-auth.music.apple.com
 cdn-cn.apple-mapkit.com
 cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
@@ -141,7 +138,6 @@ is4-ssl.mzstatic.com
 is4.mzstatic.com
 is5-ssl.mzstatic.com
 is5.mzstatic.com
-js-cdn.music.apple.com
 km.support.apple.com
 livephotos.cn
 livephotos.com.cn
@@ -153,13 +149,10 @@ mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
 ml.cdn-apple.com
-music.apple.com
-musicstatus.music.apple.com
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 pancake.apple.com
 pba0.apple.com
-play.music.apple.com
 probe.siri.apple.com
 prod-support.apple-support.akadns.net
 publicassets.cdn-apple.com
@@ -176,7 +169,6 @@ sequoia.apple.com
 sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 smp-device-content.apple.com
-speedysub.music.apple.com
 static.gc.apple.com
 stocks-sparkline-lb.apple.com.akadns.net
 stocks-sparkline.apple.com
