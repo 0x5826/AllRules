@@ -1320,7 +1320,6 @@ alefbank.com
 alexa.com
 alexanderstreet.com
 alfa.me
-alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
 alfadirect.ru
@@ -5261,6 +5260,7 @@ chat.lmsys.org
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatpdf.com
@@ -13657,6 +13657,7 @@ khatrimaza.org
 khotruyentranhx.com
 kichiku-doujinko.com
 kichikuou.com
+kick.com
 kickporn.com
 kickshatchannel.com
 kicksnike1.com
@@ -18867,11 +18868,7 @@ ppy.sh
 practicalbusinessskills.com
 practicalmoneyskills.ca
 practicalmoneyskills.jp
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 prastitutki.ru
 prayforchina.net
 prcleader.org
