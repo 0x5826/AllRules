@@ -14010,6 +14010,8 @@ kotlinlang.org
 koubaibu.jp
 koukoku.jp
 kouwobb.com
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 kpacg.com
 kphimsex.net
 kpht85.com
@@ -14728,6 +14730,7 @@ magentomobile.com
 magestic.com
 magicalmirai.com
 magicmovies.com
+magnific.com
 mahajantech.com
 mahjongsoul.com
 maidonanews.jp
@@ -16211,6 +16214,7 @@ mtalk.google.com
 mtalk4.google.com
 mtao.fun
 mthruf.com
+mts-link.ru
 mts-ws.net
 mts.ru
 mtsbank.ru
@@ -19111,6 +19115,7 @@ postgresql.org
 postimages.org
 postimg.cc
 postini.com
+postman.com
 posts.careerengine.us
 posty.kr
 postyourgirls.ws
