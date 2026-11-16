@@ -41,6 +41,7 @@ appletv4.cn
 appletv4.com.cn
 apps.mzstatic.com
 appstoreapple.cn
+captive.apple.com
 cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
@@ -64,6 +65,7 @@ cn-smp-paymentservices.apple.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
+configuration.ls.apple.com
 cstat.apple.com
 cstat.cdn-apple.com
 dd-cdn.origin-apple.com.akadns.net
