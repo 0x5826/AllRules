@@ -1732,6 +1732,12 @@ add address=103.90.188.0/22 disabled=no list=chnroute_v4
 add address=103.90.192.0/22 disabled=no list=chnroute_v4
 add address=103.91.36.0/22 disabled=no list=chnroute_v4
 add address=103.91.40.0/22 disabled=no list=chnroute_v4
+add address=103.91.106.32/27 disabled=no list=chnroute_v4
+add address=103.91.106.64/27 disabled=no list=chnroute_v4
+add address=103.91.106.128/25 disabled=no list=chnroute_v4
+add address=103.91.107.0/27 disabled=no list=chnroute_v4
+add address=103.91.107.64/27 disabled=no list=chnroute_v4
+add address=103.91.107.128/25 disabled=no list=chnroute_v4
 add address=103.91.108.0/22 disabled=no list=chnroute_v4
 add address=103.91.112.0/23 disabled=no list=chnroute_v4
 add address=103.91.138.0/23 disabled=no list=chnroute_v4
