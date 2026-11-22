@@ -4557,6 +4557,7 @@ bravoporn.com
 bravoteens.com
 bravotube.net
 bravotube.tv
+bravotv.com
 brawlstars.com
 brawlstarsgame.com
 brazilpartneruniversity.com
@@ -5794,6 +5795,7 @@ cn.sandscotaicentral.com
 cn.shafaqna.com
 cna.com.tw
 cnbc.com
+cnbccouncils.com
 cnbcfm.com
 cnbeta.com
 cnbeta.com.tw
@@ -8791,6 +8793,7 @@ fantasti.cc
 fantom.foundation
 fantom.network
 fantv.hk
+fanza.jp
 fap-xxx.com
 fap18.net
 fap666.com
@@ -9254,6 +9257,7 @@ fnlondon.com
 fnmt.es
 foampositeshoes.com
 fochk.org
+focusfeatures.com
 focustaiwan.tw
 fofg.org
 foftolia.com
@@ -11051,6 +11055,7 @@ hayabusa.io
 hayabusa.media
 hayday.com
 haydaygame.com
+hayu.com
 hayya.ae
 hb.imgix.net
 hb4bbbbb.pmhcjk.com
@@ -12432,6 +12437,7 @@ ilife.gr
 ilife.wang
 illawarramercury.com.au
 illgames.jp
+illumination.com
 illusion111.com
 illusionas.com
 illusionchn.com
@@ -16214,7 +16220,6 @@ msk.ilnk.info
 msk.kitazawa.me
 msn.com
 msn.net
-msnbc.com
 msnewskids.com
 msnewskids.net
 msnewskids.org
@@ -16622,8 +16627,11 @@ nbcnews.com
 nbcolympics.com
 nbcsports.com
 nbcudigitaladops.com
+nbcumv.com
 nbcuni.com
+nbcunicareers.com
 nbcuniversal.com
+nbcuniversalprivacy.com
 nbdh15.buzz
 nbtvpn.com
 nbys.tv
@@ -19932,6 +19940,7 @@ rentry.co
 renyurenquan.org
 renzhe.cloud
 repe21.com
+replit.com
 repo.new
 report-megafon.ru
 repotama.com
@@ -22527,6 +22536,7 @@ telegram.space
 telegramdownload.com
 telekom.com
 telekom.de
+telemundo.com
 telerik.com
 telesco.pe
 telesec.de
@@ -23156,6 +23166,7 @@ torrentprivacy.com
 torrentproject.se
 torrenty.org
 torrindex.net
+tortoisegit.org
 tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
@@ -23676,6 +23687,7 @@ udndata.com
 udnfunlife.com
 udomain.hk
 udtrucksmeena.com
+udxfpp.com
 ueberamazon.de
 uflash.tv
 uforadio.com.tw
@@ -23754,11 +23766,18 @@ uniswap.org
 united.ru
 unity.com
 unity3d.com
+universalbeijingresort.com
+universalhorrorunleashed.com
+universalkidsresort.com
 universalorlando.com
+universalpictures.co.uk
 universalpictures.com
+universalpicturesathome.com
 universalpicturesinternational.com
+universalproductsexperiences.com
 universalscalablefirmware.org
 universalstudioshollywood.com
+universalukproject.co.uk
 universitypressscholarship.com
 unknownspace.org
 unkoscene.com
@@ -23785,6 +23804,7 @@ updatetube.com
 upfrontcfd.com
 upfrontfea.com
 upghsbc.com
+uphe.com
 upholdjustice.org
 upjav.cc
 uplay-istrip.com
@@ -23834,6 +23854,7 @@ userpxt.io
 usersdrive.com
 usertrust.com
 usfk.mil
+usj.co.jp
 usma.edu
 usno.navy.mil
 usocial.pro
